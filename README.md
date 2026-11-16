@@ -141,8 +141,8 @@ O arquivo `docs/pseudocodigo.md` apresenta o pseudocódigo dos principais algori
 ## Integrantes
 
 - João Vitor Genesio da Silva Serafim
-- [Nome do integrante 2]
-- [Nome do integrante 3]
+- Carlos Alberto Monteiro Alves Filho
+- Caique da Silva Soares Torres
 
 ## Disciplina
 
